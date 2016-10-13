@@ -2,3 +2,10 @@ body{
     margin:20px auto;
     width:960px;
 }
+#header{
+  color: #DC143C;
+
+}
+span{text-decoration: underline;}
+.classmain-point{font-family: "courier new",Courier, monospace;}
+h2{font-weight: bold;}
