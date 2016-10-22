@@ -1,24 +1,24 @@
 
-.body{
+body{
   width: 960px;
   margin-bottom: 20px;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
 }
-.h1{
+h1{
   color: #777777;
   border-bottom: 1px;
   border-bottom: solid;
   border-bottom: #777777;
 }
-.h2{
+h2{
   color: #aa0000;
   border-bottom: 1px;
   border-bottom: dashed;
   border-bottom: #aa0000;
 }
-.hr{
+hr{
   clear:both;
 }
 .navigation-link{
