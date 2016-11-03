@@ -1,3 +1,21 @@
 * {
     box-sizing:border-box;
 }
+header{
+  background-color: red;
+  padding: 20px;
+}
+.toolbar1{
+  color: #ffffff;
+}
+footer{
+  background: #333333;
+  padding: 20px;
+}
+.images{
+  width: 25%;
+  float: left;
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+}
