@@ -7,6 +7,9 @@ function update() {
     var lastName = getValue('lastName');
     console.log(firstName);
     console.log(lastName);
+    var fullName = "firstName"+" "+"lastName";
+    document.getElementById("p1_fullName").innerhtml= fullName;
+
 
 
 

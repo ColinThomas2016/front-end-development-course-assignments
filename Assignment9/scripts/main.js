@@ -4,7 +4,7 @@
 var elm=document.getElementById("partOne");
 console.log(elm.innerHTML);
 
-        elm.innerHTML = "colin";
+        elm.innerHTML = colin;
 
         console.log(elm.innerHTML);
 </script>
@@ -26,7 +26,7 @@ partThree *= 14;
 partThree -= 25;
 var elm=document.getElementById("partThree");
 console.log(elm.innerHTML);
-        elm.innerHTML = "partThree";
+        elm.innerHTML = partThree;
         console.log(elm.innerHTML);
 
 </script>
@@ -35,7 +35,7 @@ var fullName= "fName"" ""lName";
 fullName= "fName"+""+"lName";
 var elm=document.getElementById("partFour");
 console.log(elm.innerHTML);
-elm.innerHTML= "fullName";
+elm.innerHTML= fullName;
 console.log(elm.innerHTML);
 </script>
 
@@ -58,8 +58,8 @@ part6Result= 'Above 50';
 else {
   part6Result='Below or equal to 50';
 }
-document.getElementById("part6Number").innerHTML= "part6Number";
-document.getElementById("part6Result").innerHTML= "part6Result";
+document.getElementById("part6Number").innerHTML= part6Number;
+document.getElementById("part6Result").innerHTML= part6Result;
 
 }
 </script>
@@ -75,8 +75,8 @@ else if (part7Number >= 50 && part7Number < 75) {
 else {
   part7Result= 'Greater than 75';
 }
-document.getElementById("part7Number").innerHTML="part7Number";
-document.getElementById("part7Result").innerHTML="part7Result";
+document.getElementById("part7Number").innerHTML=part7Number;
+document.getElementById("part7Result").innerHTML=part7Result;
 
 }
 }
