@@ -1,3 +1,117 @@
 * {
     box-sizing: border-box;
 }
+header{
+  background-color: #a00;
+  height: 102px;
+  margin: 0px;
+}
+.header{
+  color: #fff;
+}
+.header2{
+  color: #fff;
+}
+.navbar1{
+  width: 100%;
+  background: maroon;
+  height: 39px;
+  display: block;
+}
+.navbar{
+  color: #fff;
+  background: maroon;
+  float: left;
+  font-family: "helvetica Neue",helvetica,arial,sans-serif;
+  margin: 0px;
+  list-style: none;
+}
+.home{
+  float: left;
+  box-sizing: border-box;
+  width: 89.188px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.recipes{
+  float: left;
+  box-sizing: border-box;
+  width: 109.922px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.products{
+  float: left;
+  display: list-item;
+  box-sizing: border-box;
+  width: 130.406px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.faq{
+  float: left;
+  display: list-item;
+  box-sizing: border-box;
+  width: 72.03px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.contact{
+  float: left;
+  display: list-item;
+  box-sizing: border-box;
+  width: 117.062px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.searchbox{
+  float: right;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+section h1{
+  width: 100%;
+  text-align: center;
+}
+.image{
+  height: 236px;
+  width: 200px;
+  float: left;
+}
+.content{
+  width:
+}
+.input{
+}
+.footer{
+  background: #999;
+  width: 960px;
+  height: 38px;
+}
+.home2{
+  background: #ccc;
+  list-style: none;
+  height: 38px;
+  width: 82.984px;
+}
+.recipes2{
+  background: #ccc;
+  list-style: none;
+  height: 38px;
+  width: 97.781px;
+}
+.products2{
+  background: #ccc;
+  list-style: none;
+  height: 38px;
+}
+.faq2{
+  background: #ccc;
+  list-style: none;
+  height: 38px;
+}
+.contact2{
+  background: #ccc;
+  list-style: none;
+  height: 38px;
+}
